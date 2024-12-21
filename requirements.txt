@@ -2,6 +2,8 @@ langchain
 streamlit
 sentence-transformers
 uvicorn
-fastapi
-ipykernel
 python-box
+langchain-groq
+langchain-cohere
+langchain-pinecone
+dotenv
